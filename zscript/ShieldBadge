@@ -51,7 +51,7 @@ class VirShieldBadge:ShieldCore{
 	}
 	states{
 	spawn:
-		SHLB ABCDEF 1 A_SetTics(random(1,10));
+		SHLB ABCDEF 5;
 		loop;
 	use:
 		TNT1 A 0 A_UseShield();
