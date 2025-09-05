@@ -1,0 +1,2 @@
+// Shield Badge Spawn Table Entries
+addSpawnTableSingleEntry => { "tableName": "ArmorBonusReplaces", "name": "VirShieldBadge", "weight": "1.2", "persists": "true" }
