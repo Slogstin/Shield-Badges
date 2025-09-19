@@ -1,2 +1,5 @@
 // Shield Badge Spawn Table Entries
 addSpawnTableSingleEntry => { "tableName": "ArmorBonusReplaces", "name": "VirShieldBadge", "weight": "1.2", "persists": "true" }
+
+// Merchant Store Entries
+newMerchantStoreItem => { "type": "item", "category": "Virid Inc.", "item": "VirShieldBadge", "icon": "SHLBA0", "displayName": "Shield Badge", "basePrice": "256", "flavorText": "Badges? We don't need no stinkin' badges!" }
