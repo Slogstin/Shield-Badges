@@ -1,5 +1,6 @@
 # Description
-This Addon adds Shield Badges to [Hideous Destructor](https://codeberg.org/mc776/HideousDestructor). 
+This Addon adds Shield Badges to [Hideous Destructor](https://codeberg.org/mc776/HideousDestructor).  
+_Requires [HDCoreLib](https://github.com/HDest-Community/hdest-core-lib), made by the community._
 
 They are basically mini Shield Cores that always recharge!
 
